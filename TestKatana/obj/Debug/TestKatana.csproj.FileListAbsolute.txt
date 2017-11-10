@@ -1,0 +1,16 @@
+c:\users\ieuch\source\repos\TestKatana\TestKatana\bin\Debug\TestKatana.exe.config
+c:\users\ieuch\source\repos\TestKatana\TestKatana\bin\Debug\TestKatana.exe
+c:\users\ieuch\source\repos\TestKatana\TestKatana\bin\Debug\TestKatana.pdb
+c:\users\ieuch\source\repos\TestKatana\TestKatana\bin\Debug\Microsoft.Owin.dll
+c:\users\ieuch\source\repos\TestKatana\TestKatana\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+c:\users\ieuch\source\repos\TestKatana\TestKatana\bin\Debug\Microsoft.Owin.Hosting.dll
+c:\users\ieuch\source\repos\TestKatana\TestKatana\bin\Debug\Owin.dll
+c:\users\ieuch\source\repos\TestKatana\TestKatana\bin\Debug\Microsoft.Owin.xml
+c:\users\ieuch\source\repos\TestKatana\TestKatana\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+c:\users\ieuch\source\repos\TestKatana\TestKatana\bin\Debug\Microsoft.Owin.Hosting.xml
+c:\users\ieuch\source\repos\TestKatana\TestKatana\obj\Debug\TestKatana.csprojResolveAssemblyReference.cache
+c:\users\ieuch\source\repos\TestKatana\TestKatana\obj\Debug\TestKatana.csproj.CoreCompileInputs.cache
+c:\users\ieuch\source\repos\TestKatana\TestKatana\obj\Debug\TestKatana.exe
+c:\users\ieuch\source\repos\TestKatana\TestKatana\obj\Debug\TestKatana.pdb
+c:\users\ieuch\source\repos\TestKatana\TestKatana\bin\Debug\Microsoft.Owin.Diagnostics.dll
+c:\users\ieuch\source\repos\TestKatana\TestKatana\bin\Debug\Microsoft.Owin.Diagnostics.xml
